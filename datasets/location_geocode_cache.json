@@ -1,0 +1,2729 @@
+{
+  "Adai": {
+    "locality": "Adai",
+    "latitude": "19.0053004",
+    "longitude": "73.1233424",
+    "display_name": "Adai lake, New Panvel, Panvel, Panvel Subdistrict, Raigad, Maharashtra, India",
+    "class": null,
+    "type": "lake",
+    "query_used": "Adai, Maharashtra, India"
+  },
+  "Adaigaon": {
+    "locality": "Adaigaon",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Adarsh Nagar": {
+    "locality": "Adarsh Nagar",
+    "latitude": "19.1421134",
+    "longitude": "72.8345595",
+    "display_name": "Adarsh Nagar, Jogeshwari West, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Adarsh Nagar, Maharashtra, India"
+  },
+  "Adharwadi": {
+    "locality": "Adharwadi",
+    "latitude": "20.4844919",
+    "longitude": "75.4606676",
+    "display_name": "Adharwadi, Sillod, Chhatrapati Sambhajinagar District, Maharashtra, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Adharwadi, Maharashtra, India"
+  },
+  "Agripada": {
+    "locality": "Agripada",
+    "latitude": "18.9750400",
+    "longitude": "72.8250555",
+    "display_name": "Agripada, Byculla West, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400004, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Agripada, Maharashtra, India"
+  },
+  "Air Force Quarters": {
+    "locality": "Air Force Quarters",
+    "latitude": "19.0420886",
+    "longitude": "72.8660780",
+    "display_name": "Air Force Quarters, Sion East, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Air Force Quarters, Maharashtra, India"
+  },
+  "Airoli": {
+    "locality": "Airoli",
+    "latitude": "19.1585147",
+    "longitude": "72.9994019",
+    "display_name": "Airoli, Airoli Station Road, Airoli Sector 2, Airoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400708, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Airoli, Maharashtra, India"
+  },
+  "Ambedkar Nagar": {
+    "locality": "Ambedkar Nagar",
+    "latitude": "19.0015921",
+    "longitude": "72.8442272",
+    "display_name": "Ambedkar Nagar, Acharya Donde Marg, Parmanand Wadi, Parel, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400015, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Ambedkar Nagar, Maharashtra, India"
+  },
+  "Ambernath": {
+    "locality": "Ambernath",
+    "latitude": "19.2015607",
+    "longitude": "73.2004771",
+    "display_name": "Ambernath, Ulhasnagar Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "administrative",
+    "query_used": "Ambernath, Maharashtra, India"
+  },
+  "Antop Hill": {
+    "locality": "Antop Hill",
+    "latitude": "19.0301805",
+    "longitude": "72.8669504",
+    "display_name": "Antop Hill, M Ambedkar Marg, CGS Colony, Indira Nagar, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400037, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Antop Hill, Maharashtra, India"
+  },
+  "Artist Village": {
+    "locality": "Artist Village",
+    "latitude": "19.0190244",
+    "longitude": "73.0390629",
+    "display_name": "CBD Belapur, Sakal Bhavan Marg, Sector 11, Belapur West, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400614, India",
+    "class": null,
+    "type": "train_station",
+    "query_used": "CBD Belapur Navi Mumbai Maharashtra India"
+  },
+  "Asalpha": {
+    "locality": "Asalpha",
+    "latitude": "19.0970000",
+    "longitude": "72.8945000",
+    "display_name": "Asalpha, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400072, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Asalpha, Maharashtra, India"
+  },
+  "Asha Nagar": {
+    "locality": "Asha Nagar",
+    "latitude": "19.2117164",
+    "longitude": "72.8646991",
+    "display_name": "Dhruv Apartments, Asha Nagar, Asha Nagar Road, Thakur Complex, Kandivali East, R/S Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400101, India",
+    "class": null,
+    "type": "apartments",
+    "query_used": "Asha Nagar, Maharashtra, India"
+  },
+  "BS Ambedkar Nagar": {
+    "locality": "BS Ambedkar Nagar",
+    "latitude": "19.0009114",
+    "longitude": "72.8493704",
+    "display_name": "Ambedkar Nagar, Sewri, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "BS Ambedkar Nagar, Maharashtra, India"
+  },
+  "Badhwar Park": {
+    "locality": "Badhwar Park",
+    "latitude": "18.9190415",
+    "longitude": "72.8264976",
+    "display_name": "Badhwar Park Railway Officer's Residences, Colaba, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Badhwar Park, Maharashtra, India"
+  },
+  "Baiganwadi": {
+    "locality": "Baiganwadi",
+    "latitude": "19.0618979",
+    "longitude": "72.9249694",
+    "display_name": "Baiganwadi, Plot No.11, Shivaji Nagar, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400043, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Baiganwadi, Maharashtra, India"
+  },
+  "Bail Bajar": {
+    "locality": "Bail Bajar",
+    "latitude": "17.2718656",
+    "longitude": "74.1851894",
+    "display_name": "Cattle Markant Bail Bazar, Bailbajar Bajar Raod, Sai Nagar, Karad, Satara, Maharashtra, 415100, India",
+    "class": null,
+    "type": "supermarket",
+    "query_used": "Bail Bajar, Maharashtra, India"
+  },
+  "Battipada": {
+    "locality": "Battipada",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Belapur": {
+    "locality": "Belapur",
+    "latitude": "19.6197639",
+    "longitude": "74.6599008",
+    "display_name": "Belapur, SH44, Shrirampur, Ahilyanagar District, Maharashtra, 413700, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Belapur, Maharashtra, India"
+  },
+  "Beturkar Pada": {
+    "locality": "Beturkar Pada",
+    "latitude": "19.2468874",
+    "longitude": "73.1268524",
+    "display_name": "Mohindar Singh Kabal Singh English High School;Junior & Degree College, Mohindar Singh Kabal Singh Rd, near Suchak Petrol Pump, Swanand Nagar, Beturkar Pada, Kalyan, Maharashtra 421301, Agra Road, shivaji chowk, Kalyan, Dombivli, Kalyan-Dombivli, Kalyan Subdistrict, Thane, Maharashtra, 421301, India",
+    "class": null,
+    "type": "school",
+    "query_used": "Beturkar Pada, Maharashtra, India"
+  },
+  "Bhandup": {
+    "locality": "Bhandup",
+    "latitude": "19.1427570",
+    "longitude": "72.9376543",
+    "display_name": "Bhandup, Bhandup Station Road, Bhandup West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400078, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Bhandup, Maharashtra, India"
+  },
+  "Bhatwadi": {
+    "locality": "Bhatwadi",
+    "latitude": "17.0271193",
+    "longitude": "74.1417503",
+    "display_name": "Bhatwadi, Shirala, Sangli District, Maharashtra, 415408, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Bhatwadi, Maharashtra, India"
+  },
+  "Bhawani Sankar": {
+    "locality": "Bhawani Sankar",
+    "latitude": "19.0145268",
+    "longitude": "72.8359611",
+    "display_name": "Bhawani Shankar Marg, Dadar West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400028, India",
+    "class": null,
+    "type": "secondary",
+    "query_used": "Bhawani Shankar Dadar Maharashtra India"
+  },
+  "Bhim Nagar": {
+    "locality": "Bhim Nagar",
+    "latitude": "21.1102108",
+    "longitude": "79.0805583",
+    "display_name": "Bhim Nagar, Nagpur, Nagpur Urban Taluka, Nagpur, Maharashtra, 440015, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Bhim Nagar, Maharashtra, India"
+  },
+  "Block G Sector 12 Kharghar": {
+    "locality": "Block G Sector 12 Kharghar",
+    "latitude": "19.0446111",
+    "longitude": "73.0644537",
+    "display_name": "Dnyeshwari bldg, Sector 12, Raintree Marg, Owe Camp, Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410210, India",
+    "class": null,
+    "type": "yes",
+    "query_used": "Sector 12 Kharghar Navi Mumbai Maharashtra India"
+  },
+  "Borivali  gorai sector 2": {
+    "locality": "Borivali  gorai sector 2",
+    "latitude": "19.2331431",
+    "longitude": "72.8247534",
+    "display_name": "Gorai Borivali Road;Lokmanya Tilak Road, Gorai, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 900092, India",
+    "class": null,
+    "type": "tertiary",
+    "query_used": "Borivali  gorai sector 2, Maharashtra, India"
+  },
+  "Byculla": {
+    "locality": "Byculla",
+    "latitude": "18.9766219",
+    "longitude": "72.8327936",
+    "display_name": "Byculla, N M Joshi Marg, Byculla West, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400027, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Byculla, Maharashtra, India"
+  },
+  "Central Area": {
+    "locality": "Central Area",
+    "latitude": "18.9695855",
+    "longitude": "72.8193152",
+    "display_name": "Mumbai Central, J Boman Behram Marg, Cowasji Jehangir Colony, Tulsi Wadi, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400004, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Mumbai Central Mumbai Maharashtra India"
+  },
+  "Chandivali": {
+    "locality": "Chandivali",
+    "latitude": "19.1091482",
+    "longitude": "72.8945793",
+    "display_name": "Chandivali, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400072, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Chandivali, Maharashtra, India"
+  },
+  "Chembur": {
+    "locality": "Chembur",
+    "latitude": "19.0548180",
+    "longitude": "72.8979713",
+    "display_name": "Chembur, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Chembur, Maharashtra, India"
+  },
+  "Chembur Camp": {
+    "locality": "Chembur Camp",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Chembur Gaothan": {
+    "locality": "Chembur Gaothan",
+    "latitude": "19.0579376",
+    "longitude": "72.8968948",
+    "display_name": "Chembur Gaothan, Chembur, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Chembur Gaothan, Maharashtra, India"
+  },
+  "Chinchpada Gaon": {
+    "locality": "Chinchpada Gaon",
+    "latitude": "19.2222178",
+    "longitude": "73.1401912",
+    "display_name": "Chinchpada Road, Kalyan, Kalyan-Dombivli, Kalyan Subdistrict, Thane, Maharashtra, 421306, India",
+    "class": null,
+    "type": "tertiary",
+    "query_used": "Chinchpada Kalyan Maharashtra India"
+  },
+  "Chirag Nagar": {
+    "locality": "Chirag Nagar",
+    "latitude": "19.0878678",
+    "longitude": "72.9010736",
+    "display_name": "Chirag Nagar Police Colony, Ghatkopar West, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Chirag Nagar, Maharashtra, India"
+  },
+  "Christian Gaon": {
+    "locality": "Christian Gaon",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Cidco Colony": {
+    "locality": "Cidco Colony",
+    "latitude": "19.0789760",
+    "longitude": "73.0758488",
+    "display_name": "CIDCO Colony, Taloja, Panvel, Panvel Subdistrict, Raigad, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Cidco Colony, Maharashtra, India"
+  },
+  "Dadar": {
+    "locality": "Dadar",
+    "latitude": "19.0192269",
+    "longitude": "72.8428479",
+    "display_name": "Dadar, Ranade Road Extension, Dadar West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400028, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Dadar, Maharashtra, India"
+  },
+  "Damle Colony": {
+    "locality": "Damle Colony",
+    "latitude": "18.5149237",
+    "longitude": "73.8268604",
+    "display_name": "V. G. Damle Path, Ex-Servicemen Colony, Erandwane, Anandnagar, Pune City Subdistrict, Pune District, Maharashtra, 411001, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Damle Colony, Maharashtra, India"
+  },
+  "Deonar": {
+    "locality": "Deonar",
+    "latitude": "19.0475502",
+    "longitude": "72.9051895",
+    "display_name": "Deonar, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Deonar, Maharashtra, India"
+  },
+  "Deonar Municipal Colony": {
+    "locality": "Deonar Municipal Colony",
+    "latitude": "19.0536503",
+    "longitude": "72.9240918",
+    "display_name": "Deonar Colony, Govandi East, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400088, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Deonar Colony Mumbai Maharashtra India"
+  },
+  "Dhansar": {
+    "locality": "Dhansar",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Dharavi": {
+    "locality": "Dharavi",
+    "latitude": "19.0444630",
+    "longitude": "72.8586177",
+    "display_name": "Dharavi, Mumbai Zone 2, Mumbai City District, Maharashtra, India",
+    "class": null,
+    "type": "administrative",
+    "query_used": "Dharavi, Maharashtra, India"
+  },
+  "Dongri": {
+    "locality": "Dongri",
+    "latitude": "18.9622265",
+    "longitude": "72.8367950",
+    "display_name": "Dongri, B Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 200008, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Dongri, Maharashtra, India"
+  },
+  "Dronagiri": {
+    "locality": "Dronagiri",
+    "latitude": "18.8813327",
+    "longitude": "72.9647315",
+    "display_name": "Dronagiri, Panvel Uran Road, Bokadvira, Uran Subdistrict, Raigad, Maharashtra, 400707, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Dronagiri, Maharashtra, India"
+  },
+  "Ganesh Murti Nagar": {
+    "locality": "Ganesh Murti Nagar",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Ganesh Nagar": {
+    "locality": "Ganesh Nagar",
+    "latitude": "18.5927116",
+    "longitude": "73.8625967",
+    "display_name": "Ganesh Nagar, Pimpri-Chinchwad, Haveli Subdistrict, Pune District, Maharashtra, 411031, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Ganesh Nagar, Maharashtra, India"
+  },
+  "Gangawadi": {
+    "locality": "Gangawadi",
+    "latitude": "19.3237386",
+    "longitude": "75.9024811",
+    "display_name": "Gangawadi, Georai, Beed District, Maharashtra, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Gangawadi, Maharashtra, India"
+  },
+  "Gaon Devi": {
+    "locality": "Gaon Devi",
+    "latitude": "19.0375567",
+    "longitude": "73.0140985",
+    "display_name": "gaon devi mandir, Nerul West, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "recreation_ground",
+    "query_used": "Gaon Devi, Maharashtra, India"
+  },
+  "Garodia Nagar": {
+    "locality": "Garodia Nagar",
+    "latitude": "19.0741334",
+    "longitude": "72.9085221",
+    "display_name": "Garodia Nagar, Vidya Vihar East, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400077, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Garodia Nagar, Maharashtra, India"
+  },
+  "Ghansoli": {
+    "locality": "Ghansoli",
+    "latitude": "19.1163797",
+    "longitude": "73.0069928",
+    "display_name": "Ghansoli, Ghansoli Station Road, Sector 6, Ghansoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400701, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Ghansoli, Maharashtra, India"
+  },
+  "Ghatkopar": {
+    "locality": "Ghatkopar",
+    "latitude": "19.0856928",
+    "longitude": "72.9083668",
+    "display_name": "Ghatkopar, Station Road, Kapol Wadi, Ghatkopar East, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400086, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Ghatkopar, Maharashtra, India"
+  },
+  "Ghatla": {
+    "locality": "Ghatla",
+    "latitude": "19.0517387",
+    "longitude": "72.9103117",
+    "display_name": "Ghatla, Waman Tukaram Patil Marg, Nagesh Patil Wadi, Deonar, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400088, India",
+    "class": null,
+    "type": "hotel",
+    "query_used": "Ghatla, Maharashtra, India"
+  },
+  "Ghodapdeo": {
+    "locality": "Ghodapdeo",
+    "latitude": "18.9820061",
+    "longitude": "72.8392802",
+    "display_name": "Ghodapdeo, Byculla East, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Ghodapdeo, Maharashtra, India"
+  },
+  "Girgaon": {
+    "locality": "Girgaon",
+    "latitude": "18.9543165",
+    "longitude": "72.8179082",
+    "display_name": "Girgaon, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400004, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Girgaon, Maharashtra, India"
+  },
+  "Gothivali Village": {
+    "locality": "Gothivali Village",
+    "latitude": "19.1388528",
+    "longitude": "72.9989393",
+    "display_name": "Gothivali Village, MIDC - Rabale, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 410701, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Gothivali Village, Maharashtra, India"
+  },
+  "Govandi": {
+    "locality": "Govandi",
+    "latitude": "19.0553688",
+    "longitude": "72.9150702",
+    "display_name": "Govandi, B S Devashi Marg, Samrat Ashok Nagar, Govandi West, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400043, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Govandi, Maharashtra, India"
+  },
+  "Govind Nagar": {
+    "locality": "Govind Nagar",
+    "latitude": "19.9833412",
+    "longitude": "73.7793088",
+    "display_name": "Govind Nagar, Nashik, Nashik Subdistrict, Nashik District, Maharashtra, 422001, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Govind Nagar, Maharashtra, India"
+  },
+  "Grant Road": {
+    "locality": "Grant Road",
+    "latitude": "18.9633549",
+    "longitude": "72.8158261",
+    "display_name": "Grant Road, N Bharucha Marg, Gamdevi, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400036, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Grant Road, Maharashtra, India"
+  },
+  "GuruTeg Bahadur Nagar": {
+    "locality": "GuruTeg Bahadur Nagar",
+    "latitude": "19.0380048",
+    "longitude": "72.8643455",
+    "display_name": "Guru Tegh Bahadur Nagar, M Ambedkar Marg, Agarwada Colony, Indira Nagar, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400022, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Guru Tegh Bahadur Nagar Mumbai Maharashtra India"
+  },
+  "Hallow Pul": {
+    "locality": "Hallow Pul",
+    "latitude": "19.0757274",
+    "longitude": "72.8799569",
+    "display_name": "Hallow Pul, Kurla West, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400070, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Hallow Pul, Maharashtra, India"
+  },
+  "Hariyali": {
+    "locality": "Hariyali",
+    "latitude": "19.1136865",
+    "longitude": "72.9297750",
+    "display_name": "Hariyali, Vikhroli West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400083, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Hariyali, Maharashtra, India"
+  },
+  "Hira Nagar": {
+    "locality": "Hira Nagar",
+    "latitude": "19.1618156",
+    "longitude": "72.9462889",
+    "display_name": "Hira Nagar, Mulund West, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400080, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Hira Nagar, Maharashtra, India"
+  },
+  "IIT Area": {
+    "locality": "IIT Area",
+    "latitude": "19.1326186",
+    "longitude": "72.9149702",
+    "display_name": "Indian Institute of Technology Bombay, Powai, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400076, India",
+    "class": null,
+    "type": "university",
+    "query_used": "IIT Bombay Powai Mumbai Maharashtra India"
+  },
+  "Indira Nagar": {
+    "locality": "Indira Nagar",
+    "latitude": "19.0360520",
+    "longitude": "72.8635501",
+    "display_name": "Indira Nagar, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400022, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Indira Nagar, Maharashtra, India"
+  },
+  "JNPT Township": {
+    "locality": "JNPT Township",
+    "latitude": "18.9020880",
+    "longitude": "72.9788691",
+    "display_name": "JNPT Township, Uran Subdistrict, Raigad, Maharashtra, 400707, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "JNPT Township, Maharashtra, India"
+  },
+  "Jagruti Nagar": {
+    "locality": "Jagruti Nagar",
+    "latitude": "19.0925442",
+    "longitude": "72.9019518",
+    "display_name": "Jagruti Nagar, Sant Narsee Mehta Marg, Azad Nagar, Ghatkopar West, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400086, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Jagruti Nagar, Maharashtra, India"
+  },
+  "Jambhulpada": {
+    "locality": "Jambhulpada",
+    "latitude": "18.6519741",
+    "longitude": "73.2964623",
+    "display_name": "Jambhulpada, Sudhagad Taluka, Raigad, Maharashtra, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Jambhulpada, Maharashtra, India"
+  },
+  "Jamil Nagar": {
+    "locality": "Jamil Nagar",
+    "latitude": "19.1433206",
+    "longitude": "72.9251908",
+    "display_name": "Jamil Nagar, Bhandup West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400078, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Jamil Nagar, Maharashtra, India"
+  },
+  "Jaydev Singh Nagar": {
+    "locality": "Jaydev Singh Nagar",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Kalamboli": {
+    "locality": "Kalamboli",
+    "latitude": "19.0344708",
+    "longitude": "73.1149672",
+    "display_name": "Kalamboli, Steel Market Road, Kalamboli, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410218, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Kalamboli, Maharashtra, India"
+  },
+  "Kalyan": {
+    "locality": "Kalyan",
+    "latitude": "19.2396742",
+    "longitude": "73.1366482",
+    "display_name": "Kalyan, Ambivali, Kalyan-Dombivli, Kalyan Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Kalyan, Maharashtra, India"
+  },
+  "Kamathi Wada": {
+    "locality": "Kamathi Wada",
+    "latitude": "18.9650659",
+    "longitude": "72.8261833",
+    "display_name": "Kamathipura, Nagpada, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400004, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Kamathipura Mumbai Maharashtra India"
+  },
+  "Kamgar Nagar": {
+    "locality": "Kamgar Nagar",
+    "latitude": "19.0102201",
+    "longitude": "72.8274009",
+    "display_name": "Kamgar Nagar, Prabhadevi, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400025, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Kamgar Nagar, Maharashtra, India"
+  },
+  "Kamothe": {
+    "locality": "Kamothe",
+    "latitude": "19.0164338",
+    "longitude": "73.0806552",
+    "display_name": "Mansarovar, Mansarovar Station Road, Jui, Navi Mumbai, Panvel Subdistrict, Raigad, Maharashtra, 410209, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Kamothe, Maharashtra, India"
+  },
+  "Kanjur Village": {
+    "locality": "Kanjur Village",
+    "latitude": "19.1336970",
+    "longitude": "72.9381936",
+    "display_name": "Kanjur Village, Bhandup East, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400042, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Kanjur Village, Maharashtra, India"
+  },
+  "Kanjurmarg": {
+    "locality": "Kanjurmarg",
+    "latitude": "19.1241020",
+    "longitude": "72.9385562",
+    "display_name": "Kanjurmarg Flyover, Tagore Nagar, Vikhroli East, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400042, India",
+    "class": null,
+    "type": "trunk",
+    "query_used": "Kanjurmarg, Maharashtra, India"
+  },
+  "Kanjurmarg west": {
+    "locality": "Kanjurmarg west",
+    "latitude": "19.1321171",
+    "longitude": "72.9273332",
+    "display_name": "Dockyard kanjurmarg St, Lal Bahadur Shastri Marg, Kanjur West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400042, India",
+    "class": null,
+    "type": "bus_stop",
+    "query_used": "Kanjurmarg west, Maharashtra, India"
+  },
+  "Kannamwar Nagar 1": {
+    "locality": "Kannamwar Nagar 1",
+    "latitude": "19.1168383",
+    "longitude": "72.9401198",
+    "display_name": "Kannamwar Nagar II, Vikhroli East, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400083, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Kannamwar Nagar 1, Maharashtra, India"
+  },
+  "Kannamwar Nagar 2": {
+    "locality": "Kannamwar Nagar 2",
+    "latitude": "19.1168383",
+    "longitude": "72.9401198",
+    "display_name": "Kannamwar Nagar II, Vikhroli East, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400083, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Kannamwar Nagar 2, Maharashtra, India"
+  },
+  "Karanjade": {
+    "locality": "Karanjade",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Kataria Colony": {
+    "locality": "Kataria Colony",
+    "latitude": "19.0306569",
+    "longitude": "72.8485194",
+    "display_name": "Takandas H. Kataria Marg, Telephone Colony, Matunga West, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400016, India",
+    "class": null,
+    "type": "secondary",
+    "query_used": "Kataria Colony, Maharashtra, India"
+  },
+  "Katemanivali": {
+    "locality": "Katemanivali",
+    "latitude": "19.2289657",
+    "longitude": "73.1438554",
+    "display_name": "Katemanivali Road, Kalyan, Kalyan-Dombivli, Kalyan Subdistrict, Thane, Maharashtra, 421003, India",
+    "class": null,
+    "type": "secondary",
+    "query_used": "Katemanivali, Maharashtra, India"
+  },
+  "Kausa": {
+    "locality": "Kausa",
+    "latitude": "19.1837247",
+    "longitude": "73.0194696",
+    "display_name": "Mumbra-Kausa Bypass, Mumbra, Reti Bandar, Thane, Thane Subdistrict, Thane, Maharashtra, 400708, India",
+    "class": null,
+    "type": "trunk",
+    "query_used": "Kausa, Maharashtra, India"
+  },
+  "Kegaon": {
+    "locality": "Kegaon",
+    "latitude": "17.7165509",
+    "longitude": "75.8492555",
+    "display_name": "Kegaon, Solapur North, Solapur District, Maharashtra, 413255, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Kegaon, Maharashtra, India"
+  },
+  "Kemps corner": {
+    "locality": "Kemps corner",
+    "latitude": "18.9637535",
+    "longitude": "72.8068617",
+    "display_name": "Kemps Corner, Cumballa Hill, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400036, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Kemps corner, Maharashtra, India"
+  },
+  "Keshav Pada": {
+    "locality": "Keshav Pada",
+    "latitude": "19.1717774",
+    "longitude": "72.9463808",
+    "display_name": "Keshav Pada, Mulund West, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400080, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Keshav Pada, Maharashtra, India"
+  },
+  "Khalai Village": {
+    "locality": "Khalai Village",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Khalapur": {
+    "locality": "Khalapur",
+    "latitude": "18.8321669",
+    "longitude": "73.2852464",
+    "display_name": "Khalapur, Khalapur Taluka, Raigad, Maharashtra, 410202, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Khalapur, Maharashtra, India"
+  },
+  "Khanda Colony": {
+    "locality": "Khanda Colony",
+    "latitude": "19.0062716",
+    "longitude": "73.1077566",
+    "display_name": "Khanda Colony, Flyover, New Panvel, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 401206, India",
+    "class": null,
+    "type": "bus_stop",
+    "query_used": "Khanda Colony, Maharashtra, India"
+  },
+  "Khandeshhwar": {
+    "locality": "Khandeshhwar",
+    "latitude": "19.0073498",
+    "longitude": "73.0952827",
+    "display_name": "Khandeshwar, Khandeshwar Station Road, Navi Mumbai, Panvel Subdistrict, Raigad, Maharashtra, 410206, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Khandeshwar Navi Mumbai Maharashtra India"
+  },
+  "Kharghar": {
+    "locality": "Kharghar",
+    "latitude": "19.0525298",
+    "longitude": "73.0735111",
+    "display_name": "Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 420210, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Kharghar, Maharashtra, India"
+  },
+  "Khindipada": {
+    "locality": "Khindipada",
+    "latitude": "19.1650350",
+    "longitude": "72.9304173",
+    "display_name": "Khindipada, Nahur, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400082, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Khindipada, Maharashtra, India"
+  },
+  "Kirol Village": {
+    "locality": "Kirol Village",
+    "latitude": "19.0816423",
+    "longitude": "72.8970712",
+    "display_name": "KIROL VILLAGE, Vidya Vihar West, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400086, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Kirol Village, Maharashtra, India"
+  },
+  "Kopar Khairane": {
+    "locality": "Kopar Khairane",
+    "latitude": "19.1056227",
+    "longitude": "72.9988648",
+    "display_name": "Kopar Khairane Village, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Kopar Khairane, Maharashtra, India"
+  },
+  "Krishna Nagar": {
+    "locality": "Krishna Nagar",
+    "latitude": "17.6881858",
+    "longitude": "74.0260700",
+    "display_name": "Krishna Nagar, Satara, Maharashtra, 415002, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Krishna Nagar, Maharashtra, India"
+  },
+  "Kurla": {
+    "locality": "Kurla",
+    "latitude": "19.0652797",
+    "longitude": "72.8793805",
+    "display_name": "Kurla, S G Barve Marg, Brahmanwadi, Kurla West, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400024, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Kurla, Maharashtra, India"
+  },
+  "LBS Marg": {
+    "locality": "LBS Marg",
+    "latitude": "19.0816540",
+    "longitude": "72.8816381",
+    "display_name": "Lal Bahadur Shastri Marg, Hallow Pul, Kurla West, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400070, India",
+    "class": null,
+    "type": "primary",
+    "query_used": "LBS Marg, Maharashtra, India"
+  },
+  "Lalbaug": {
+    "locality": "Lalbaug",
+    "latitude": "18.9914237",
+    "longitude": "72.8364587",
+    "display_name": "Lalbaug, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400011, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Lalbaug, Maharashtra, India"
+  },
+  "Laxmi Colony": {
+    "locality": "Laxmi Colony",
+    "latitude": "19.0919482",
+    "longitude": "72.9169798",
+    "display_name": "H 1-C, H 1-C, Triveni Co-operative Housing Society, MHADA colony, Laxmi Nagar, Ghatkopar - E, Rajaram Bane Marg, Laxmi Nagar, Ghatkopar, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400075, India",
+    "class": null,
+    "type": "apartments",
+    "query_used": "Laxmi Colony, Maharashtra, India"
+  },
+  "Lok Milan Colony": {
+    "locality": "Lok Milan Colony",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Lower Parel": {
+    "locality": "Lower Parel",
+    "latitude": "18.9956800",
+    "longitude": "72.8302756",
+    "display_name": "Lower Parel, Delisle Road ROB, BDD Chawl, Lower Parel, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400013, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Lower Parel, Maharashtra, India"
+  },
+  "Mahalaxmi": {
+    "locality": "Mahalaxmi",
+    "latitude": "18.9825203",
+    "longitude": "72.8242196",
+    "display_name": "Mahalaxmi, Mahalakshmi Station Flyover, Dhobi Ghat, Mahalakshmi, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400027, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Mahalaxmi, Maharashtra, India"
+  },
+  "Mahim": {
+    "locality": "Mahim",
+    "latitude": "19.0423145",
+    "longitude": "72.8398344",
+    "display_name": "Mahim, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400016, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Mahim, Maharashtra, India"
+  },
+  "Manda": {
+    "locality": "Manda",
+    "latitude": "20.0016003",
+    "longitude": "79.5911890",
+    "display_name": "Manda Tukam, Tolewahi, Mul Taluka, Chandrapur, Maharashtra, India",
+    "class": null,
+    "type": "hamlet",
+    "query_used": "Manda, Maharashtra, India"
+  },
+  "Mandala": {
+    "locality": "Mandala",
+    "latitude": "20.8522860",
+    "longitude": "76.9117427",
+    "display_name": "Mandala, Akola, Akola District, Maharashtra, India",
+    "class": null,
+    "type": "administrative",
+    "query_used": "Mandala, Maharashtra, India"
+  },
+  "Maneklal Estate": {
+    "locality": "Maneklal Estate",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Mankhurd": {
+    "locality": "Mankhurd",
+    "latitude": "19.0482086",
+    "longitude": "72.9317136",
+    "display_name": "Mankhurd, Mankhurd Station Road, Mankhurd Village, Mankhurd, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400094, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Mankhurd, Maharashtra, India"
+  },
+  "Masjid Bandar": {
+    "locality": "Masjid Bandar",
+    "latitude": "18.9533897",
+    "longitude": "72.8391555",
+    "display_name": "Lower Masjid Bandar Road, Dana Bandar, Masjid Bunder, B Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400009, India",
+    "class": null,
+    "type": "unclassified",
+    "query_used": "Masjid Bandar, Maharashtra, India"
+  },
+  "Mata Ramabai Ambedkar Nagar": {
+    "locality": "Mata Ramabai Ambedkar Nagar",
+    "latitude": "19.0762815",
+    "longitude": "72.9177733",
+    "display_name": "Ramabai Ambedkar Nagar, Nalanda Nagar, Ghatkopar, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400075, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Ramabai Ambedkar Nagar Ghatkopar Mumbai Maharashtra India"
+  },
+  "Matunga": {
+    "locality": "Matunga",
+    "latitude": "19.0274356",
+    "longitude": "72.8501467",
+    "display_name": "Matunga, Bhandarkar Road, Matunga East, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400019, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Matunga, Maharashtra, India"
+  },
+  "Mazgaon": {
+    "locality": "Mazgaon",
+    "latitude": "18.9697337",
+    "longitude": "72.8406201",
+    "display_name": "Mazgaon, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 200008, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Mazgaon, Maharashtra, India"
+  },
+  "Mhada Colony": {
+    "locality": "Mhada Colony",
+    "latitude": "20.2511706",
+    "longitude": "75.7665521",
+    "display_name": "Mhada Colony, Bhokardan, Jalna District, Maharashtra, 431114, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Mhada Colony, Maharashtra, India"
+  },
+  "Moti Nagar": {
+    "locality": "Moti Nagar",
+    "latitude": "19.3051318",
+    "longitude": "72.8485201",
+    "display_name": "Moti Nagar Road, Bhayander West, Murdha, Mira-Bhayander, Thane Subdistrict, Thane, Maharashtra, 401101, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Moti Nagar, Maharashtra, India"
+  },
+  "Mulund": {
+    "locality": "Mulund",
+    "latitude": "19.1721366",
+    "longitude": "72.9566971",
+    "display_name": "Mulund, Platform 4, Vijay Nagar, Mulund East, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400081, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Mulund, Maharashtra, India"
+  },
+  "Mumbai Central": {
+    "locality": "Mumbai Central",
+    "latitude": "18.9695855",
+    "longitude": "72.8193152",
+    "display_name": "Mumbai Central, J Boman Behram Marg, Cowasji Jehangir Colony, Tulsi Wadi, D Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400004, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Mumbai Central, Maharashtra, India"
+  },
+  "Mumbra": {
+    "locality": "Mumbra",
+    "latitude": "19.1899425",
+    "longitude": "73.0230752",
+    "display_name": "Mumbra, Mumbra Flyover, Mumbra, Reti Bandar, Thane, Thane Subdistrict, Thane, Maharashtra, 400612, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Mumbra, Maharashtra, India"
+  },
+  "Nagaon": {
+    "locality": "Nagaon",
+    "latitude": "16.9863832",
+    "longitude": "74.6306527",
+    "display_name": "Nagaon, Tasgaon, Sangli District, Maharashtra, 416307, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Nagaon, Maharashtra, India"
+  },
+  "Nagpada": {
+    "locality": "Nagpada",
+    "latitude": "18.9681782",
+    "longitude": "72.8286009",
+    "display_name": "Nagpada, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400004, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Nagpada, Maharashtra, India"
+  },
+  "Nahar Amrit Shakti": {
+    "locality": "Nahar Amrit Shakti",
+    "latitude": "19.1049242",
+    "longitude": "72.8985884",
+    "display_name": "Nahar Amrit Shakti, Chandivali, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Nahar Amrit Shakti, Maharashtra, India"
+  },
+  "Nahur": {
+    "locality": "Nahur",
+    "latitude": "19.1546402",
+    "longitude": "72.9466525",
+    "display_name": "Nahur, M D Keni Road, RCF Colony, Nahur, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400078, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Nahur, Maharashtra, India"
+  },
+  "Nandivali Gaon": {
+    "locality": "Nandivali Gaon",
+    "latitude": "19.1981479",
+    "longitude": "73.0848216",
+    "display_name": "Cross Nandivali Road, Sagaon, Dombivli, Kalyan-Dombivli, Kalyan Subdistrict, Thane, Maharashtra, 421203, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Nandivali Dombivli Maharashtra India"
+  },
+  "Nandkarni Park": {
+    "locality": "Nandkarni Park",
+    "latitude": "19.0173569",
+    "longitude": "72.8634317",
+    "display_name": "Nadkarni Park, Antop Hill, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400031, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Nadkarni Park Wadala Mumbai Maharashtra India"
+  },
+  "Nariman Point": {
+    "locality": "Nariman Point",
+    "latitude": "18.9270890",
+    "longitude": "72.8235859",
+    "display_name": "Nariman Point, Colaba, A Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400021, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Nariman Point, Maharashtra, India"
+  },
+  "Navada Colony": {
+    "locality": "Navada Colony",
+    "latitude": "19.0538460",
+    "longitude": "73.1030296",
+    "display_name": "Navade Road, MIDC Road Flyover, MIDC Taloja, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 401218, India",
+    "class": null,
+    "type": "halt",
+    "query_used": "Navade Panvel Maharashtra India"
+  },
+  "Neelam Nagar": {
+    "locality": "Neelam Nagar",
+    "latitude": "19.1745887",
+    "longitude": "72.9651296",
+    "display_name": "Neelam Nagar, Mulund East, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400081, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Neelam Nagar, Maharashtra, India"
+  },
+  "Nehru Nagar": {
+    "locality": "Nehru Nagar",
+    "latitude": "19.0010485",
+    "longitude": "72.8194265",
+    "display_name": "Nehru Nagar, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400018, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Nehru Nagar, Maharashtra, India"
+  },
+  "Nehru Nagar,Kurla": {
+    "locality": "Nehru Nagar,Kurla",
+    "latitude": "19.0610000",
+    "longitude": "72.8810000",
+    "display_name": "Nehru Nagar, Kurla East, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400024, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Nehru Nagar,Kurla, Maharashtra, India"
+  },
+  "Nerul": {
+    "locality": "Nerul",
+    "latitude": "19.0335938",
+    "longitude": "73.0181640",
+    "display_name": "Nerul, Mata Amritanandamayi Marg, Nerul Village, Nerul West, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400706, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Nerul, Maharashtra, India"
+  },
+  "New Gautam Nagar": {
+    "locality": "New Gautam Nagar",
+    "latitude": "19.0602622",
+    "longitude": "72.9154444",
+    "display_name": "New Gautam Nagar, Govandi East, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400044, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "New Gautam Nagar, Maharashtra, India"
+  },
+  "New Panvel": {
+    "locality": "New Panvel",
+    "latitude": "18.9993761",
+    "longitude": "73.1239899",
+    "display_name": "New Panvel, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410206, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "New Panvel, Maharashtra, India"
+  },
+  "New Rajaram Wadi": {
+    "locality": "New Rajaram Wadi",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Old Panvel": {
+    "locality": "Old Panvel",
+    "latitude": "18.9876767",
+    "longitude": "73.1112492",
+    "display_name": "Old Panvel Bhaji Market, New Panvel, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410200, India",
+    "class": null,
+    "type": "tertiary",
+    "query_used": "Old Panvel, Maharashtra, India"
+  },
+  "Palaspa": {
+    "locality": "Palaspa",
+    "latitude": "18.9602915",
+    "longitude": "73.1309637",
+    "display_name": "Palaspa Bus Stand, NH66, Panvel Subdistrict, Raigad, Maharashtra, 410221, India",
+    "class": null,
+    "type": "bus_stop",
+    "query_used": "Palaspa, Maharashtra, India"
+  },
+  "Palaspe Phata": {
+    "locality": "Palaspe Phata",
+    "latitude": "18.9704929",
+    "longitude": "73.1324019",
+    "display_name": "Palaspe Phata Bus Stand, NH48, Panvel Subdistrict, Raigad, Maharashtra, 410221, India",
+    "class": null,
+    "type": "bus_stop",
+    "query_used": "Palaspe Phata, Maharashtra, India"
+  },
+  "Panchkutir Ganesh Nagar": {
+    "locality": "Panchkutir Ganesh Nagar",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Pant Nagar": {
+    "locality": "Pant Nagar",
+    "latitude": "19.0833305",
+    "longitude": "72.9115042",
+    "display_name": "Pant Nagar, Ghatkopar East, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400075, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Pant Nagar, Maharashtra, India"
+  },
+  "Panvel": {
+    "locality": "Panvel",
+    "latitude": "18.9895249",
+    "longitude": "73.1221935",
+    "display_name": "Panvel, Panvel Subdistrict, Raigad, Maharashtra, India",
+    "class": null,
+    "type": "administrative",
+    "query_used": "Panvel, Maharashtra, India"
+  },
+  "Parel": {
+    "locality": "Parel",
+    "latitude": "19.0084268",
+    "longitude": "72.8425050",
+    "display_name": "Parel, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400028, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Parel, Maharashtra, India"
+  },
+  "Pereira Wadi": {
+    "locality": "Pereira Wadi",
+    "latitude": "19.0894168",
+    "longitude": "72.8833921",
+    "display_name": "Pereira Wadi, Jarimari, Asalpha, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400070, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Pereira Wadi, Maharashtra, India"
+  },
+  "Pestom Sagar Colony": {
+    "locality": "Pestom Sagar Colony",
+    "latitude": "19.0692541",
+    "longitude": "72.9019227",
+    "display_name": "Pestom Sagar Colony, Chheda Nagar, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400012, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Pestom Sagar Colony, Maharashtra, India"
+  },
+  "Pirojshanagar": {
+    "locality": "Pirojshanagar",
+    "latitude": "19.1016734",
+    "longitude": "72.9236504",
+    "display_name": "Pirojsha Godrej Nagar, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400079, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Pirojshanagar, Maharashtra, India"
+  },
+  "Pisavli": {
+    "locality": "Pisavli",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Postal Colony": {
+    "locality": "Postal Colony",
+    "latitude": "19.0607418",
+    "longitude": "72.8949685",
+    "display_name": "Postal Colony, Chembur, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Postal Colony, Maharashtra, India"
+  },
+  "Powai": {
+    "locality": "Powai",
+    "latitude": "19.1187195",
+    "longitude": "72.9073476",
+    "display_name": "Powai, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400076, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Powai, Maharashtra, India"
+  },
+  "Pratap Nagar": {
+    "locality": "Pratap Nagar",
+    "latitude": "18.8131139",
+    "longitude": "76.8878174",
+    "display_name": "Pratap Nagar, Ahmadpur, Latur District, Maharashtra, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Pratap Nagar, Maharashtra, India"
+  },
+  "Pushpak Nagar": {
+    "locality": "Pushpak Nagar",
+    "latitude": "17.8910705",
+    "longitude": "73.7891047",
+    "display_name": "ulwe, 123, Satara, Jaoli, Satara, Maharashtra, 400706, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Pushpak Nagar, Maharashtra, India"
+  },
+  "RCF Colony Chembur": {
+    "locality": "RCF Colony Chembur",
+    "latitude": "19.0415311",
+    "longitude": "72.9019065",
+    "display_name": "Loreto Convent School, RCF colony,chembur, TEC Niwas Sthan Road, BP Colony, Fertilizer Colony, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400074, India",
+    "class": null,
+    "type": "yes",
+    "query_used": "RCF Colony Chembur, Maharashtra, India"
+  },
+  "RP Nagar": {
+    "locality": "RP Nagar",
+    "latitude": "18.5605448",
+    "longitude": "73.9528977",
+    "display_name": "RP Nagar Road, Kharadi, Wagholi, Pune City Subdistrict, Pune District, Maharashtra, 411023, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "RP Nagar, Maharashtra, India"
+  },
+  "RTO Colony": {
+    "locality": "RTO Colony",
+    "latitude": "19.1325056",
+    "longitude": "72.8307797",
+    "display_name": "RTO Road, Bhudargarh Colony, Dadabhai Naoroji Nagar, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 402205, India",
+    "class": null,
+    "type": "tertiary",
+    "query_used": "RTO Colony, Maharashtra, India"
+  },
+  "Rabale": {
+    "locality": "Rabale",
+    "latitude": "19.1366355",
+    "longitude": "73.0027824",
+    "display_name": "Rabale, Rabale Station Road, Sector 26, MIDC - Rabale, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400701, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Rabale, Maharashtra, India"
+  },
+  "Raheja Vihar": {
+    "locality": "Raheja Vihar",
+    "latitude": "19.1191663",
+    "longitude": "72.8951234",
+    "display_name": "Raheja Vihar Circular Road, Chandivali, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Raheja Vihar, Maharashtra, India"
+  },
+  "Rajaram Nagar": {
+    "locality": "Rajaram Nagar",
+    "latitude": "19.0940216",
+    "longitude": "72.9183116",
+    "display_name": "Rajaram Bane Marg, Laxmi Nagar, Ghatkopar, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400075, India",
+    "class": null,
+    "type": "living_street",
+    "query_used": "Rajaram Nagar, Maharashtra, India"
+  },
+  "Ramabai Ambedkar Nagar": {
+    "locality": "Ramabai Ambedkar Nagar",
+    "latitude": "19.1247542",
+    "longitude": "72.9201221",
+    "display_name": "Ramabai Ambedkar Nagar, Kanjur West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400076, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Ramabai Ambedkar Nagar, Maharashtra, India"
+  },
+  "Rambaug": {
+    "locality": "Rambaug",
+    "latitude": "18.5113684",
+    "longitude": "73.8155321",
+    "display_name": "Rambaug Colony, Erandwane, Anandnagar, Pune City Subdistrict, Pune District, Maharashtra, 411051, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Rambaug, Maharashtra, India"
+  },
+  "Ranjanpada": {
+    "locality": "Ranjanpada",
+    "latitude": "18.9092584",
+    "longitude": "73.0158486",
+    "display_name": "Ranjanpada, JNPT Road, Uran Subdistrict, Raigad, Maharashtra, 400707, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Ranjanpada, Maharashtra, India"
+  },
+  "Rasayani": {
+    "locality": "Rasayani",
+    "latitude": "18.8978821",
+    "longitude": "73.1803608",
+    "display_name": "Rasayani, Khalapur Taluka, Raigad, Maharashtra, 410222, India",
+    "class": null,
+    "type": "town",
+    "query_used": "Rasayani, Maharashtra, India"
+  },
+  "Sadan wadi": {
+    "locality": "Sadan wadi",
+    "latitude": "19.1289515",
+    "longitude": "72.8234663",
+    "display_name": "Baba Sadan, Versova, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sadan wadi, Maharashtra, India"
+  },
+  "Sambhaji Nagar": {
+    "locality": "Sambhaji Nagar",
+    "latitude": "19.8772630",
+    "longitude": "75.3390241",
+    "display_name": "Chhatrapati Sambhajinagar, Chhatrapati Sambhajinagar District, Maharashtra, 431002, India",
+    "class": null,
+    "type": "city",
+    "query_used": "Sambhaji Nagar, Maharashtra, India"
+  },
+  "Sangam Nagar": {
+    "locality": "Sangam Nagar",
+    "latitude": "19.0242996",
+    "longitude": "72.8721003",
+    "display_name": "Sangam Nagar, Antop Hill, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400037, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Sangam Nagar, Maharashtra, India"
+  },
+  "Sanjay Nagar": {
+    "locality": "Sanjay Nagar",
+    "latitude": "19.0673247",
+    "longitude": "72.9275176",
+    "display_name": "Sanjay Nagar Part 2, sanjay nagar part 2, Shivaji Nagar, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sanjay Nagar, Maharashtra, India"
+  },
+  "Sanpada": {
+    "locality": "Sanpada",
+    "latitude": "19.0659774",
+    "longitude": "73.0095329",
+    "display_name": "Sanpada, Sanpada Station Road, Sanpada, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400706, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Sanpada, Maharashtra, India"
+  },
+  "Sardar Vallabhbhai Patel Nagar": {
+    "locality": "Sardar Vallabhbhai Patel Nagar",
+    "latitude": "19.0320750",
+    "longitude": "72.8709317",
+    "display_name": "Sardar Vallabhbhai Patel Nagar, Wadala, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400037, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Sardar Vallabhbhai Patel Nagar, Maharashtra, India"
+  },
+  "Sathe Nagar": {
+    "locality": "Sathe Nagar",
+    "latitude": "19.0537530",
+    "longitude": "72.9148886",
+    "display_name": "sathe nagar, Govandi West, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sathe Nagar, Maharashtra, India"
+  },
+  "Savoli": {
+    "locality": "Savoli",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Seawoods": {
+    "locality": "Seawoods",
+    "latitude": "19.0216748",
+    "longitude": "73.0186236",
+    "display_name": "Seawoods Grand Central Mall, Seawoods, Seawoods Station Road, Sector-42, Seawoods East, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400706, India",
+    "class": null,
+    "type": "mall",
+    "query_used": "Seawoods, Maharashtra, India"
+  },
+  "Sector 1 Kopar Khairane": {
+    "locality": "Sector 1 Kopar Khairane",
+    "latitude": "19.1056227",
+    "longitude": "72.9988648",
+    "display_name": "Kopar Khairane Village, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 1 Kopar Khairane, Maharashtra, India"
+  },
+  "Sector 1 Shiravane": {
+    "locality": "Sector 1 Shiravane",
+    "latitude": "19.0469267",
+    "longitude": "73.0211474",
+    "display_name": "Shiravane Village, Juinagar, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400007, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 1 Shiravane, Maharashtra, India"
+  },
+  "Sector 10 Sanpada": {
+    "locality": "Sector 10 Sanpada",
+    "latitude": "19.0607337",
+    "longitude": "73.0116775",
+    "display_name": "Sanpada, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400705, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 10 Sanpada, Maharashtra, India"
+  },
+  "Sector 10 Vashi": {
+    "locality": "Sector 10 Vashi",
+    "latitude": "19.0990752",
+    "longitude": "73.0051825",
+    "display_name": "D Mart Police Station, Sector 10, Vashi - Koparkhairne Link Road, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "police",
+    "query_used": "Sector 10 Vashi, Maharashtra, India"
+  },
+  "Sector 10A Vashi": {
+    "locality": "Sector 10A Vashi",
+    "latitude": "19.0699948",
+    "longitude": "72.9959605",
+    "display_name": "Sector 1, Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Sector 10A Vashi, Maharashtra, India"
+  },
+  "Sector 11 Kamothe": {
+    "locality": "Sector 11 Kamothe",
+    "latitude": "19.0173837",
+    "longitude": "73.0954838",
+    "display_name": "Prem Aangan society,kamothe, Prem Aangan, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410209, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sector 11 Kamothe, Maharashtra, India"
+  },
+  "Sector 11 Vashi": {
+    "locality": "Sector 11 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 11 Vashi, Maharashtra, India"
+  },
+  "Sector 12": {
+    "locality": "Sector 12",
+    "latitude": "19.1177420",
+    "longitude": "72.9904477",
+    "display_name": "Sector 12, Ghansoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 12, Maharashtra, India"
+  },
+  "Sector 12 Kharghar": {
+    "locality": "Sector 12 Kharghar",
+    "latitude": "19.0525298",
+    "longitude": "73.0735111",
+    "display_name": "Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410210, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 12 Kharghar, Maharashtra, India"
+  },
+  "Sector 12 New Panvel": {
+    "locality": "Sector 12 New Panvel",
+    "latitude": "18.9993761",
+    "longitude": "73.1239899",
+    "display_name": "New Panvel, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410206, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 12 New Panvel, Maharashtra, India"
+  },
+  "Sector 12 Vashi": {
+    "locality": "Sector 12 Vashi",
+    "latitude": "19.0877597",
+    "longitude": "73.0039074",
+    "display_name": "Sector 12 Vashi, Vashi - Koparkhairne Link Road, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "bus_stop",
+    "query_used": "Sector 12 Vashi, Maharashtra, India"
+  },
+  "Sector 14 Vashi": {
+    "locality": "Sector 14 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 14 Vashi, Maharashtra, India"
+  },
+  "Sector 15 Belapur": {
+    "locality": "Sector 15 Belapur",
+    "latitude": "19.5646023",
+    "longitude": "74.6484732",
+    "display_name": "Belapur Bk, Shrirampur, Ahilyanagar District, Maharashtra, 413715, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Sector 15 Belapur, Maharashtra, India"
+  },
+  "Sector 15 Kopar Khairane": {
+    "locality": "Sector 15 Kopar Khairane",
+    "latitude": "19.1056227",
+    "longitude": "72.9988648",
+    "display_name": "Kopar Khairane Village, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 15 Kopar Khairane, Maharashtra, India"
+  },
+  "Sector 15 Vashi": {
+    "locality": "Sector 15 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 15 Vashi, Maharashtra, India"
+  },
+  "Sector 16 Airoli": {
+    "locality": "Sector 16 Airoli",
+    "latitude": "19.1582719",
+    "longitude": "72.9967088",
+    "display_name": "Airoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400708, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 16 Airoli, Maharashtra, India"
+  },
+  "Sector 16 Kalamboli": {
+    "locality": "Sector 16 Kalamboli",
+    "latitude": "19.0358309",
+    "longitude": "73.1034796",
+    "display_name": "Kalamboli, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410218, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 16 Kalamboli, Maharashtra, India"
+  },
+  "Sector 16 Kopar Khairane": {
+    "locality": "Sector 16 Kopar Khairane",
+    "latitude": "19.0991188",
+    "longitude": "73.0015852",
+    "display_name": "Sati CHS, plot no. 12, sector- 16, Gyan Vikas Road, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "yes",
+    "query_used": "Sector 16 Kopar Khairane, Maharashtra, India"
+  },
+  "Sector 16 Nerul": {
+    "locality": "Sector 16 Nerul",
+    "latitude": "19.0331360",
+    "longitude": "73.0089368",
+    "display_name": "16, Sector 6 Nerul Road, Nerul West, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400007, India",
+    "class": null,
+    "type": "apartments",
+    "query_used": "Sector 16 Nerul, Maharashtra, India"
+  },
+  "Sector 16 Ulwe": {
+    "locality": "Sector 16 Ulwe",
+    "latitude": "17.8910705",
+    "longitude": "73.7891047",
+    "display_name": "ulwe, 123, Satara, Jaoli, Satara, Maharashtra, 400706, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Sector 16 Ulwe, Maharashtra, India"
+  },
+  "Sector 16 Vashi": {
+    "locality": "Sector 16 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 16 Vashi, Maharashtra, India"
+  },
+  "Sector 17 Kopar Khairane": {
+    "locality": "Sector 17 Kopar Khairane",
+    "latitude": "19.1056227",
+    "longitude": "72.9988648",
+    "display_name": "Kopar Khairane Village, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 17 Kopar Khairane, Maharashtra, India"
+  },
+  "Sector 17 Nerul": {
+    "locality": "Sector 17 Nerul",
+    "latitude": "19.0333249",
+    "longitude": "73.0089489",
+    "display_name": "17, Sector 6 Nerul Road, Nerul West, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400007, India",
+    "class": null,
+    "type": "apartments",
+    "query_used": "Sector 17 Nerul, Maharashtra, India"
+  },
+  "Sector 17 Ulwe": {
+    "locality": "Sector 17 Ulwe",
+    "latitude": "17.8910705",
+    "longitude": "73.7891047",
+    "display_name": "ulwe, 123, Satara, Jaoli, Satara, Maharashtra, 400706, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Sector 17 Ulwe, Maharashtra, India"
+  },
+  "Sector 17 Vashi": {
+    "locality": "Sector 17 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 17 Vashi, Maharashtra, India"
+  },
+  "Sector 18 Kamothe": {
+    "locality": "Sector 18 Kamothe",
+    "latitude": "19.0173837",
+    "longitude": "73.0954838",
+    "display_name": "Prem Aangan society,kamothe, Prem Aangan, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410209, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sector 18 Kamothe, Maharashtra, India"
+  },
+  "Sector 18 Kopar Khairane": {
+    "locality": "Sector 18 Kopar Khairane",
+    "latitude": "19.1056227",
+    "longitude": "72.9988648",
+    "display_name": "Kopar Khairane Village, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 18 Kopar Khairane, Maharashtra, India"
+  },
+  "Sector 18 Ulwe": {
+    "locality": "Sector 18 Ulwe",
+    "latitude": "17.8910705",
+    "longitude": "73.7891047",
+    "display_name": "ulwe, 123, Satara, Jaoli, Satara, Maharashtra, 400706, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Sector 18 Ulwe, Maharashtra, India"
+  },
+  "Sector 18A Nerul": {
+    "locality": "Sector 18A Nerul",
+    "latitude": "19.0310419",
+    "longitude": "73.0356567",
+    "display_name": "Sector 9 Agro Project Farm, Belapur East, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "allotments",
+    "query_used": "Sector 18A Nerul, Maharashtra, India"
+  },
+  "Sector 19 Kharghar": {
+    "locality": "Sector 19 Kharghar",
+    "latitude": "19.0525298",
+    "longitude": "73.0735111",
+    "display_name": "Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410210, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 19 Kharghar, Maharashtra, India"
+  },
+  "Sector 19 Vashi": {
+    "locality": "Sector 19 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 19 Vashi, Maharashtra, India"
+  },
+  "Sector 19A Nerul": {
+    "locality": "Sector 19A Nerul",
+    "latitude": "19.0310419",
+    "longitude": "73.0356567",
+    "display_name": "Sector 9 Agro Project Farm, Belapur East, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "allotments",
+    "query_used": "Sector 19A Nerul, Maharashtra, India"
+  },
+  "Sector 19A Vashi": {
+    "locality": "Sector 19A Vashi",
+    "latitude": "19.0699948",
+    "longitude": "72.9959605",
+    "display_name": "Sector 1, Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Sector 19A Vashi, Maharashtra, India"
+  },
+  "Sector 19D Vashi": {
+    "locality": "Sector 19D Vashi",
+    "latitude": "19.0699948",
+    "longitude": "72.9959605",
+    "display_name": "Sector 1, Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Sector 19D Vashi, Maharashtra, India"
+  },
+  "Sector 1A Kopar Khairane": {
+    "locality": "Sector 1A Kopar Khairane",
+    "latitude": "19.1056227",
+    "longitude": "72.9988648",
+    "display_name": "Kopar Khairane Village, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 1A Kopar Khairane, Maharashtra, India"
+  },
+  "Sector 2 CBD Belapur": {
+    "locality": "Sector 2 CBD Belapur",
+    "latitude": "19.0234849",
+    "longitude": "73.0384895",
+    "display_name": "CBD Belapur East, Belapur East, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "commercial",
+    "query_used": "Sector 2 CBD Belapur, Maharashtra, India"
+  },
+  "Sector 2 Kopar Khairane": {
+    "locality": "Sector 2 Kopar Khairane",
+    "latitude": "19.1056227",
+    "longitude": "72.9988648",
+    "display_name": "Kopar Khairane Village, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 2 Kopar Khairane, Maharashtra, India"
+  },
+  "Sector 2 New Panvel": {
+    "locality": "Sector 2 New Panvel",
+    "latitude": "18.9993761",
+    "longitude": "73.1239899",
+    "display_name": "New Panvel, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410206, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 2 New Panvel, Maharashtra, India"
+  },
+  "Sector 2 Vashi": {
+    "locality": "Sector 2 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 2 Vashi, Maharashtra, India"
+  },
+  "Sector 20 Kharghar": {
+    "locality": "Sector 20 Kharghar",
+    "latitude": "19.0525298",
+    "longitude": "73.0735111",
+    "display_name": "Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410210, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 20 Kharghar, Maharashtra, India"
+  },
+  "Sector 20 Kopar Khairane": {
+    "locality": "Sector 20 Kopar Khairane",
+    "latitude": "19.1056227",
+    "longitude": "72.9988648",
+    "display_name": "Kopar Khairane Village, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 20 Kopar Khairane, Maharashtra, India"
+  },
+  "Sector 20 Roadpali": {
+    "locality": "Sector 20 Roadpali",
+    "latitude": "19.0366032",
+    "longitude": "73.0911631",
+    "display_name": "Roadpali Park Ave, Kalamboli, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410218, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sector 20 Roadpali, Maharashtra, India"
+  },
+  "Sector 21 Kamothe": {
+    "locality": "Sector 21 Kamothe",
+    "latitude": "19.0173837",
+    "longitude": "73.0954838",
+    "display_name": "Prem Aangan society,kamothe, Prem Aangan, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410209, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sector 21 Kamothe, Maharashtra, India"
+  },
+  "Sector 21 Kharghar": {
+    "locality": "Sector 21 Kharghar",
+    "latitude": "19.0525298",
+    "longitude": "73.0735111",
+    "display_name": "Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410210, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 21 Kharghar, Maharashtra, India"
+  },
+  "Sector 21 Nerul": {
+    "locality": "Sector 21 Nerul",
+    "latitude": "19.0370749",
+    "longitude": "73.0124752",
+    "display_name": "Nerul West, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400007, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 21 Nerul, Maharashtra, India"
+  },
+  "Sector 21 New Panvel": {
+    "locality": "Sector 21 New Panvel",
+    "latitude": "18.9993761",
+    "longitude": "73.1239899",
+    "display_name": "New Panvel, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410206, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 21 New Panvel, Maharashtra, India"
+  },
+  "Sector 22 Kamothe": {
+    "locality": "Sector 22 Kamothe",
+    "latitude": "19.0173837",
+    "longitude": "73.0954838",
+    "display_name": "Prem Aangan society,kamothe, Prem Aangan, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410209, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sector 22 Kamothe, Maharashtra, India"
+  },
+  "Sector 23 Kharghar": {
+    "locality": "Sector 23 Kharghar",
+    "latitude": "19.0525298",
+    "longitude": "73.0735111",
+    "display_name": "Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410210, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 23 Kharghar, Maharashtra, India"
+  },
+  "Sector 23 Ulwe": {
+    "locality": "Sector 23 Ulwe",
+    "latitude": "17.8910705",
+    "longitude": "73.7891047",
+    "display_name": "ulwe, 123, Satara, Jaoli, Satara, Maharashtra, 400706, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Sector 23 Ulwe, Maharashtra, India"
+  },
+  "Sector 24 Ulwe": {
+    "locality": "Sector 24 Ulwe",
+    "latitude": "18.9759053",
+    "longitude": "73.0297988",
+    "display_name": "Sector 19 Road, Vahal Village, Ulwe, Panvel Subdistrict, Raigad, Maharashtra, 400706, India",
+    "class": null,
+    "type": "tertiary",
+    "query_used": "Sector 24 Ulwe, Maharashtra, India"
+  },
+  "Sector 25 Khandeshhwar": {
+    "locality": "Sector 25 Khandeshhwar",
+    "latitude": "19.0173837",
+    "longitude": "73.0954838",
+    "display_name": "Prem Aangan society,kamothe, Prem Aangan, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410209, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sector 25 Kamothe Navi Mumbai Maharashtra India"
+  },
+  "Sector 26 Vashi": {
+    "locality": "Sector 26 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 26 Vashi, Maharashtra, India"
+  },
+  "Sector 28 Vashi": {
+    "locality": "Sector 28 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 28 Vashi, Maharashtra, India"
+  },
+  "Sector 29 Vashi": {
+    "locality": "Sector 29 Vashi",
+    "latitude": "19.0894378",
+    "longitude": "73.0047837",
+    "display_name": "Sector 29 Vashi, Vashi - Koparkhairne Link Road, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "bus_stop",
+    "query_used": "Sector 29 Vashi, Maharashtra, India"
+  },
+  "Sector 2B Airoli": {
+    "locality": "Sector 2B Airoli",
+    "latitude": "19.1582719",
+    "longitude": "72.9967088",
+    "display_name": "Airoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400708, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 2B Airoli, Maharashtra, India"
+  },
+  "Sector 3 New Panvel": {
+    "locality": "Sector 3 New Panvel",
+    "latitude": "18.9993761",
+    "longitude": "73.1239899",
+    "display_name": "New Panvel, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410206, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 3 New Panvel, Maharashtra, India"
+  },
+  "Sector 3 Vashi": {
+    "locality": "Sector 3 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 3 Vashi, Maharashtra, India"
+  },
+  "Sector 30 Kharghar": {
+    "locality": "Sector 30 Kharghar",
+    "latitude": "19.0525298",
+    "longitude": "73.0735111",
+    "display_name": "Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 420210, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 30 Kharghar, Maharashtra, India"
+  },
+  "Sector 30 Vashi": {
+    "locality": "Sector 30 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 30 Vashi, Maharashtra, India"
+  },
+  "Sector 30A Vashi": {
+    "locality": "Sector 30A Vashi",
+    "latitude": "19.0643025",
+    "longitude": "72.9999608",
+    "display_name": "Inorbit Mall, Sector 30A, Vashi Station Road, Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "bus_stop",
+    "query_used": "Sector 30A Vashi, Maharashtra, India"
+  },
+  "Sector 31 Vashi": {
+    "locality": "Sector 31 Vashi",
+    "latitude": "19.0699948",
+    "longitude": "72.9959605",
+    "display_name": "Sector 1, Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Sector 31 Vashi, Maharashtra, India"
+  },
+  "Sector 35 Kamothe": {
+    "locality": "Sector 35 Kamothe",
+    "latitude": "19.0173837",
+    "longitude": "73.0954838",
+    "display_name": "Prem Aangan society,kamothe, Prem Aangan, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410209, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sector 35 Kamothe, Maharashtra, India"
+  },
+  "Sector 35E Kharghar": {
+    "locality": "Sector 35E Kharghar",
+    "latitude": "19.0471632",
+    "longitude": "73.0807711",
+    "display_name": "Sector 18th Road, Murbi Village, Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 420210, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sector 35E Kharghar, Maharashtra, India"
+  },
+  "Sector 35G Kharghar": {
+    "locality": "Sector 35G Kharghar",
+    "latitude": "19.0705589",
+    "longitude": "73.0693177",
+    "display_name": "Hyde Park, Sector 35G, Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410210, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sector 35G Kharghar, Maharashtra, India"
+  },
+  "Sector 35I Kharghar": {
+    "locality": "Sector 35I Kharghar",
+    "latitude": "19.0458353",
+    "longitude": "73.0783195",
+    "display_name": "Sector 19th Road, Kharghar Village, Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 420210, India",
+    "class": null,
+    "type": "secondary",
+    "query_used": "Sector 35I Kharghar, Maharashtra, India"
+  },
+  "Sector 4 Airoli": {
+    "locality": "Sector 4 Airoli",
+    "latitude": "19.1582719",
+    "longitude": "72.9967088",
+    "display_name": "Airoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400708, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 4 Airoli, Maharashtra, India"
+  },
+  "Sector 4 Ghansoli": {
+    "locality": "Sector 4 Ghansoli",
+    "latitude": "19.1145086",
+    "longitude": "73.0019977",
+    "display_name": "Sector 4, Ghansoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 4 Ghansoli, Maharashtra, India"
+  },
+  "Sector 44 Seawoods": {
+    "locality": "Sector 44 Seawoods",
+    "latitude": "19.0150570",
+    "longitude": "73.0123022",
+    "display_name": "Bank of India, Jairam Tukaram Tandel Marg, Sector-44, Seawoods West, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400706, India",
+    "class": null,
+    "type": "bank",
+    "query_used": "Sector 44 Seawoods, Maharashtra, India"
+  },
+  "Sector 44A Seawoods": {
+    "locality": "Sector 44A Seawoods",
+    "latitude": "19.0126990",
+    "longitude": "73.0115861",
+    "display_name": "Sector-44A, Seawoods West, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400706, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sector 44A Seawoods, Maharashtra, India"
+  },
+  "Sector 5 Ghansoli": {
+    "locality": "Sector 5 Ghansoli",
+    "latitude": "19.1175161",
+    "longitude": "73.0033906",
+    "display_name": "Sector 5, Sector 6, Ghansoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 5 Ghansoli, Maharashtra, India"
+  },
+  "Sector 5 Kopar Khairane": {
+    "locality": "Sector 5 Kopar Khairane",
+    "latitude": "19.1056227",
+    "longitude": "72.9988648",
+    "display_name": "Kopar Khairane Village, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 5 Kopar Khairane, Maharashtra, India"
+  },
+  "Sector 5 Vashi": {
+    "locality": "Sector 5 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 5 Vashi, Maharashtra, India"
+  },
+  "Sector 6 Kharghar": {
+    "locality": "Sector 6 Kharghar",
+    "latitude": "19.0525298",
+    "longitude": "73.0735111",
+    "display_name": "Kharghar, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410210, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 6 Kharghar, Maharashtra, India"
+  },
+  "Sector 6 New Panvel": {
+    "locality": "Sector 6 New Panvel",
+    "latitude": "19.0097282",
+    "longitude": "73.1177843",
+    "display_name": "Vasundhara CHS, sector 6 new panvel, Sector Number 6th Road, New Panvel, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410206, India",
+    "class": null,
+    "type": "yes",
+    "query_used": "Sector 6 New Panvel, Maharashtra, India"
+  },
+  "Sector 6 Vashi": {
+    "locality": "Sector 6 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 6 Vashi, Maharashtra, India"
+  },
+  "Sector 7 Airoli": {
+    "locality": "Sector 7 Airoli",
+    "latitude": "19.1582719",
+    "longitude": "72.9967088",
+    "display_name": "Airoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400708, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 7 Airoli, Maharashtra, India"
+  },
+  "Sector 7 Ghansoli": {
+    "locality": "Sector 7 Ghansoli",
+    "latitude": "19.1193307",
+    "longitude": "72.9995096",
+    "display_name": "Ghansoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400701, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 7 Ghansoli, Maharashtra, India"
+  },
+  "Sector 7 Kharghar": {
+    "locality": "Sector 7 Kharghar",
+    "latitude": "19.0331695",
+    "longitude": "73.0658742",
+    "display_name": "Hotel Three Star, Sector 7, Kharghar Flyover, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410210, India",
+    "class": null,
+    "type": "hotel",
+    "query_used": "Sector 7 Kharghar, Maharashtra, India"
+  },
+  "Sector 7 Kopar Khairane": {
+    "locality": "Sector 7 Kopar Khairane",
+    "latitude": "19.1056227",
+    "longitude": "72.9988648",
+    "display_name": "Kopar Khairane Village, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 7 Kopar Khairane, Maharashtra, India"
+  },
+  "Sector 7 Vashi": {
+    "locality": "Sector 7 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 7 Vashi, Maharashtra, India"
+  },
+  "Sector 8 Airoli": {
+    "locality": "Sector 8 Airoli",
+    "latitude": "19.1481414",
+    "longitude": "72.9949050",
+    "display_name": "Sector 8 (Airoli), Diva Koliwada Road, Airoli Sector 5, Airoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 410701, India",
+    "class": null,
+    "type": "bus_stop",
+    "query_used": "Sector 8 Airoli, Maharashtra, India"
+  },
+  "Sector 8 Kalamboli": {
+    "locality": "Sector 8 Kalamboli",
+    "latitude": "19.0358309",
+    "longitude": "73.1034796",
+    "display_name": "Kalamboli, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410218, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 8 Kalamboli, Maharashtra, India"
+  },
+  "Sector 8 Kopar Khairane": {
+    "locality": "Sector 8 Kopar Khairane",
+    "latitude": "19.1056227",
+    "longitude": "72.9988648",
+    "display_name": "Kopar Khairane Village, Kopar Khairne, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400709, India",
+    "class": null,
+    "type": "locality",
+    "query_used": "Sector 8 Kopar Khairane, Maharashtra, India"
+  },
+  "Sector 8 Sanpada": {
+    "locality": "Sector 8 Sanpada",
+    "latitude": "19.0607337",
+    "longitude": "73.0116775",
+    "display_name": "Sanpada, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400705, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 8 Sanpada, Maharashtra, India"
+  },
+  "Sector 8 Vashi": {
+    "locality": "Sector 8 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 8 Vashi, Maharashtra, India"
+  },
+  "Sector 8A Airoli": {
+    "locality": "Sector 8A Airoli",
+    "latitude": "19.1427827",
+    "longitude": "72.9934041",
+    "display_name": "Yogesh Apartment, Sector 8A, Acharya Vinobha Bhave Road, Diva Village, Airoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400708, India",
+    "class": null,
+    "type": "apartments",
+    "query_used": "Sector 8A Airoli, Maharashtra, India"
+  },
+  "Sector 8A Belapur": {
+    "locality": "Sector 8A Belapur",
+    "latitude": "19.0257331",
+    "longitude": "73.0420988",
+    "display_name": "Belapur East, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400614, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 8A Belapur, Maharashtra, India"
+  },
+  "Sector 8B Belapur": {
+    "locality": "Sector 8B Belapur",
+    "latitude": "19.0310419",
+    "longitude": "73.0356567",
+    "display_name": "Sector 9 Agro Project Farm, Belapur East, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, India",
+    "class": null,
+    "type": "allotments",
+    "query_used": "Sector 8B Belapur, Maharashtra, India"
+  },
+  "Sector 9 Airoli": {
+    "locality": "Sector 9 Airoli",
+    "latitude": "19.1488906",
+    "longitude": "72.9923596",
+    "display_name": "Sector 9-Airoli, Mulund - Airoli Link Road, Diva Village, Airoli, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 410701, India",
+    "class": null,
+    "type": "bus_stop",
+    "query_used": "Sector 9 Airoli, Maharashtra, India"
+  },
+  "Sector 9 Ulwe": {
+    "locality": "Sector 9 Ulwe",
+    "latitude": "17.8910705",
+    "longitude": "73.7891047",
+    "display_name": "ulwe, 123, Satara, Jaoli, Satara, Maharashtra, 400706, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Sector 9 Ulwe, Maharashtra, India"
+  },
+  "Sector 9 Vashi": {
+    "locality": "Sector 9 Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 9 Vashi, Maharashtra, India"
+  },
+  "Sector 9A Vashi": {
+    "locality": "Sector 9A Vashi",
+    "latitude": "19.0757840",
+    "longitude": "72.9952364",
+    "display_name": "Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Sector 9A Vashi, Maharashtra, India"
+  },
+  "Sewri": {
+    "locality": "Sewri",
+    "latitude": "18.9987796",
+    "longitude": "72.8544218",
+    "display_name": "Sewri, Eastern Freeway, Sadbhavana Nagar, Sewri, F/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400001, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Sewri, Maharashtra, India"
+  },
+  "Shailesh Nagar": {
+    "locality": "Shailesh Nagar",
+    "latitude": "19.1317025",
+    "longitude": "72.9157388",
+    "display_name": "Shailesh J Mehta Institute of Management, Main Gate Road, Tirandaz Village, Kanjur West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400076, India",
+    "class": null,
+    "type": "college",
+    "query_used": "Shailesh Nagar, Maharashtra, India"
+  },
+  "Shilphata": {
+    "locality": "Shilphata",
+    "latitude": "19.1430394",
+    "longitude": "73.0467879",
+    "display_name": "Shilphata, Shill Phata, Shill Gaon, Thane, Thane Subdistrict, Thane, Maharashtra, 410701, India",
+    "class": null,
+    "type": "trunk",
+    "query_used": "Shilphata, Maharashtra, India"
+  },
+  "Siddharth Nagar": {
+    "locality": "Siddharth Nagar",
+    "latitude": "18.5655320",
+    "longitude": "73.8135828",
+    "display_name": "Siddharth Nagar, Aundh, Khadki, Pune City Subdistrict, Pune District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Siddharth Nagar, Maharashtra, India"
+  },
+  "Sindhi Colony": {
+    "locality": "Sindhi Colony",
+    "latitude": "19.8748059",
+    "longitude": "75.3367202",
+    "display_name": "sindhi colony, Osmanpura, Chhatrapati Sambhajinagar, Chhatrapati Sambhajinagar District, Maharashtra, 431002, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sindhi Colony, Maharashtra, India"
+  },
+  "Sindhi Society Chembur": {
+    "locality": "Sindhi Society Chembur",
+    "latitude": "19.0502890",
+    "longitude": "72.8915885",
+    "display_name": "sng park, sindhi society, Chembur, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400071, India",
+    "class": null,
+    "type": "park",
+    "query_used": "Sindhi Society Chembur, Maharashtra, India"
+  },
+  "Sindhu Wadi": {
+    "locality": "Sindhu Wadi",
+    "latitude": "19.0768913",
+    "longitude": "72.9044421",
+    "display_name": "sindhu wadi, Vidya Vihar East, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Sindhu Wadi, Maharashtra, India"
+  },
+  "Sion": {
+    "locality": "Sion",
+    "latitude": "19.0465213",
+    "longitude": "72.8632834",
+    "display_name": "Sion, Sion Bandra Link Road, Sion East, G/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400051, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Sion, Maharashtra, India"
+  },
+  "Sion Koliwada": {
+    "locality": "Sion Koliwada",
+    "latitude": "19.0407302",
+    "longitude": "72.8642303",
+    "display_name": "Sion Koliwada, Sion East, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400022, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Sion Koliwada, Maharashtra, India"
+  },
+  "Sion Trombay Road": {
+    "locality": "Sion Trombay Road",
+    "latitude": "19.0422269",
+    "longitude": "72.9327330",
+    "display_name": "V.N. Purav Marg, Mandala, Mankhurd, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400094, India",
+    "class": null,
+    "type": "tertiary",
+    "query_used": "Sion Trombay Road, Maharashtra, India"
+  },
+  "Subhash Nagar": {
+    "locality": "Subhash Nagar",
+    "latitude": "21.1233162",
+    "longitude": "79.0420532",
+    "display_name": "Subhash Nagar, Hingna Road, Dharampeth, Digdoh, Nagpur, Nagpur Urban Taluka, Nagpur, Maharashtra, 440036, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Subhash Nagar, Maharashtra, India"
+  },
+  "Swastik Park": {
+    "locality": "Swastik Park",
+    "latitude": "19.0565684",
+    "longitude": "72.8902960",
+    "display_name": "Swastik Park, Chembur, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Swastik Park, Maharashtra, India"
+  },
+  "Tagore Nagar": {
+    "locality": "Tagore Nagar",
+    "latitude": "19.1196145",
+    "longitude": "72.9343142",
+    "display_name": "Tagore Nagar, Vikhroli East, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400083, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Tagore Nagar, Maharashtra, India"
+  },
+  "Taloja": {
+    "locality": "Taloja",
+    "latitude": "19.0754826",
+    "longitude": "73.0921912",
+    "display_name": "Taloja, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410208, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Taloja, Maharashtra, India"
+  },
+  "Taloja Phase 1": {
+    "locality": "Taloja Phase 1",
+    "latitude": "19.0754826",
+    "longitude": "73.0921912",
+    "display_name": "Taloja, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410208, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Taloja Phase 1, Maharashtra, India"
+  },
+  "Taloja Phase 2": {
+    "locality": "Taloja Phase 2",
+    "latitude": "19.0754826",
+    "longitude": "73.0921912",
+    "display_name": "Taloja, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 410208, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Taloja Phase 2, Maharashtra, India"
+  },
+  "Tambe Nagar": {
+    "locality": "Tambe Nagar",
+    "latitude": "19.0596098",
+    "longitude": "72.8481016",
+    "display_name": "Bhai Dhondu Tambe Marg, Gandhi Nagar, Bandra East, H/E Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+    "class": null,
+    "type": "residential",
+    "query_used": "Tambe Nagar, Maharashtra, India"
+  },
+  "Tardeo": {
+    "locality": "Tardeo",
+    "latitude": "18.9722351",
+    "longitude": "72.8203423",
+    "display_name": "Tardeo, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400004, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Tardeo, Maharashtra, India"
+  },
+  "Tata Nagar": {
+    "locality": "Tata Nagar",
+    "latitude": "19.0526286",
+    "longitude": "72.9197627",
+    "display_name": "Tata Nagar, Govandi West, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400088, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Tata Nagar, Maharashtra, India"
+  },
+  "Tembhipada": {
+    "locality": "Tembhipada",
+    "latitude": "19.1560835",
+    "longitude": "72.9273657",
+    "display_name": "Tembhipada, T Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400078, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Tembhipada, Maharashtra, India"
+  },
+  "Thane Belapur Road": {
+    "locality": "Thane Belapur Road",
+    "latitude": "19.1966138",
+    "longitude": "72.9870260",
+    "display_name": "Thane Belapur Road, Jambli Naka, Thane, Thane Subdistrict, Thane, Maharashtra, 400603, India",
+    "class": null,
+    "type": "primary",
+    "query_used": "Thane Belapur Road, Maharashtra, India"
+  },
+  "Tilak nagar": {
+    "locality": "Tilak nagar",
+    "latitude": "19.0692377",
+    "longitude": "72.8978464",
+    "display_name": "Tilak Nagar, Chheda Nagar, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Tilak nagar, Maharashtra, India"
+  },
+  "Tirandaz": {
+    "locality": "Tirandaz",
+    "latitude": "19.0183865",
+    "longitude": "72.8525799",
+    "display_name": "Rustom Tirandaz Garden, Matunga East, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, India",
+    "class": null,
+    "type": "recreation_ground",
+    "query_used": "Tirandaz, Maharashtra, India"
+  },
+  "Tisgao Naka": {
+    "locality": "Tisgao Naka",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Titwala": {
+    "locality": "Titwala",
+    "latitude": "19.2963827",
+    "longitude": "73.2030656",
+    "display_name": "Titwala, Titwala - Ambivli Road, Titwala, Kalyan-Dombivli, Kalyan Subdistrict, Thane, Maharashtra, 421605, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Titwala, Maharashtra, India"
+  },
+  "Trombay": {
+    "locality": "Trombay",
+    "latitude": "19.0336510",
+    "longitude": "72.9503637",
+    "display_name": "Trombay, V.N. Purav Marg, Trombay Koliwada, Cheeta Camp, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400034, India",
+    "class": null,
+    "type": "bus_station",
+    "query_used": "Trombay, Maharashtra, India"
+  },
+  "Tulshetpada": {
+    "locality": "Tulshetpada",
+    "latitude": "19.1608115",
+    "longitude": "72.9312614",
+    "display_name": "Tulshetpada, Green Wheels Along Blue Lines, Lok Rachna, Mulund Colony, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400078, India",
+    "class": null,
+    "type": "bus_stop",
+    "query_used": "Tulshetpada, Maharashtra, India"
+  },
+  "Tunga Village": {
+    "locality": "Tunga Village",
+    "latitude": "19.1193710",
+    "longitude": "72.8924338",
+    "display_name": "Tunga Village, Chandivali, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400072, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Tunga Village, Maharashtra, India"
+  },
+  "Ulwe": {
+    "locality": "Ulwe",
+    "latitude": "17.8910705",
+    "longitude": "73.7891047",
+    "display_name": "ulwe, 123, Satara, Jaoli, Satara, Maharashtra, 400706, India",
+    "class": null,
+    "type": "village",
+    "query_used": "Ulwe, Maharashtra, India"
+  },
+  "Union Park": {
+    "locality": "Union Park",
+    "latitude": "19.0702474",
+    "longitude": "72.8223173",
+    "display_name": "Union Park, Khar, H/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India",
+    "class": null,
+    "type": "park",
+    "query_used": "Union Park, Maharashtra, India"
+  },
+  "Uran": {
+    "locality": "Uran",
+    "latitude": "18.8808000",
+    "longitude": "72.9386000",
+    "display_name": "Uran, Uran Subdistrict, Raigad, Maharashtra, 400702, India",
+    "class": null,
+    "type": "town",
+    "query_used": "Uran, Maharashtra, India"
+  },
+  "Usarli Khurd": {
+    "locality": "Usarli Khurd",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Vaity Wadi": {
+    "locality": "Vaity Wadi",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Vashi": {
+    "locality": "Vashi",
+    "latitude": "19.0632481",
+    "longitude": "72.9987966",
+    "display_name": "Vashi, Vashi Station Road, Vashi, Navi Mumbai, Thane Subdistrict, Thane, Maharashtra, 400703, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Vashi, Maharashtra, India"
+  },
+  "Vichumbe": {
+    "locality": "Vichumbe",
+    "latitude": "18.9917532",
+    "longitude": "73.1228712",
+    "display_name": "Vijay Marg - Matheran Road, New Panvel, Panvel, Panvel Subdistrict, Raigad, Maharashtra, 497586, India",
+    "class": null,
+    "type": "secondary",
+    "query_used": "Vichumbe, Maharashtra, India"
+  },
+  "Vidyavihar": {
+    "locality": "Vidyavihar",
+    "latitude": "19.0795422",
+    "longitude": "72.8971169",
+    "display_name": "Vidyavihar, Station Road, Kirol VIllage, Vidya Vihar West, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400086, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Vidyavihar, Maharashtra, India"
+  },
+  "Vihighar": {
+    "locality": "Vihighar",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "Vikhroli": {
+    "locality": "Vikhroli",
+    "latitude": "19.1114795",
+    "longitude": "72.9280210",
+    "display_name": "Vikhroli, P. Soman Marg, Hariyali, Vikhroli West, S Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400059, India",
+    "class": null,
+    "type": "station",
+    "query_used": "Vikhroli, Maharashtra, India"
+  },
+  "Vikhroli Park Site": {
+    "locality": "Vikhroli Park Site",
+    "latitude": "19.1035605",
+    "longitude": "72.9167731",
+    "display_name": "Vikhroli Park Site Road 8, Park Site Colony, Pirojsha Godrej Nagar, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400079, India",
+    "class": null,
+    "type": "tertiary",
+    "query_used": "Vikhroli Park Site, Maharashtra, India"
+  },
+  "Vishnu Nagar": {
+    "locality": "Vishnu Nagar",
+    "latitude": "19.0250002",
+    "longitude": "72.9061681",
+    "display_name": "Vishnu Nagar, Fertilizer Colony, M/E Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400074, India",
+    "class": null,
+    "type": "neighbourhood",
+    "query_used": "Vishnu Nagar, Maharashtra, India"
+  },
+  "Wadala": {
+    "locality": "Wadala",
+    "latitude": "19.0269192",
+    "longitude": "72.8759337",
+    "display_name": "Wadala, F/N Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400037, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Wadala, Maharashtra, India"
+  },
+  "Wadeghar": {
+    "locality": "Wadeghar",
+    "latitude": "19.2543297",
+    "longitude": "73.1209207",
+    "display_name": "Wadeghar Main Road, Kalyan, Kalyan-Dombivli, Kalyan Subdistrict, Thane, Maharashtra, 421308, India",
+    "class": null,
+    "type": "tertiary",
+    "query_used": "Wadeghar, Maharashtra, India"
+  },
+  "ern Railway Colony": {
+    "locality": "ern Railway Colony",
+    "latitude": "18.9799582",
+    "longitude": "72.8334815",
+    "display_name": "Dr. Babasaheb Ambedkar Memorial Central Railway Hospital, Lalbaug Flyover, Railway Colony, Lalbaug, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 400027, India",
+    "class": null,
+    "type": "hospital",
+    "query_used": "Central Railway Colony Mumbai Maharashtra India"
+  },
+  "nanabhai chawl mazg": {
+    "locality": "nanabhai chawl mazg",
+    "latitude": "18.9697337",
+    "longitude": "72.8406201",
+    "display_name": "Mazgaon, E Ward, Mumbai Zone 1, Mumbai City District, Maharashtra, 200008, India",
+    "class": null,
+    "type": "suburb",
+    "query_used": "Mazgaon Mumbai Maharashtra India"
+  },
+  "on demand": {
+    "locality": "on demand",
+    "latitude": "",
+    "longitude": "",
+    "display_name": "",
+    "class": "",
+    "type": "",
+    "query_used": ""
+  },
+  "titwala": {
+    "locality": "titwala",
+    "latitude": "19.2963827",
+    "longitude": "73.2030656",
+    "display_name": "Titwala, Titwala - Ambivli Road, Titwala, Kalyan-Dombivli, Kalyan Subdistrict, Thane, Maharashtra, 421605, India",
+    "class": null,
+    "type": "station",
+    "query_used": "titwala, Maharashtra, India"
+  }
+}

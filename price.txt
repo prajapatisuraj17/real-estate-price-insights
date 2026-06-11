@@ -1,0 +1,48 @@
+import streamlit as st
+import pickle
+import pandas as pd
+import numpy as np
+
+st.set_page_config(
+    page_title='ploting demo'
+)
+
+st.title('page 1')
+
+with open('df.pkl','rb') as file:
+    df=pickle.load(file)
+#st.dataframe(df)
+with open('pipeline.pkl','rb') as file:
+    pipeline=pickle.load(file)
+
+st.header('Enter Your Input')
+
+locality=st.selectbox('Choose Location',df['locality'].unique().tolist())
+property_type=st.selectbox('Property_Type',['Apartment/Flat','independent_house/villa'])
+bedroom=float(st.selectbox('Bedroom',sorted(df['bedrooms'].unique().tolist())))
+bathroom=int(st.selectbox('Bathroom',sorted(df['bathroom'].unique().tolist())))
+floor_cat=st.selectbox('Floor_Type',sorted(df['floor_number'].unique().tolist()))
+area_type=st.selectbox('Area_Type',sorted(df['area_type'].unique().tolist()))
+property_age=st.selectbox('Property_Age',sorted(df['property_age'].unique().tolist())) 
+price_per_sqft=float(st.number_input('Price_Per_Sqft'))   
+area=int(st.number_input('Area'))   
+
+
+if st.button('Predict'):
+    # form a dataframe
+    data=[[property_type,bedroom,bathroom,floor_cat,area_type,property_age,
+          price_per_sqft,area,locality]]
+
+    columns=['property_type','bedrooms','bathroom','floor_number',
+             'area_type','property_age','price_per_sqft','area','locality']
+
+    one_df=pd.DataFrame(data,columns=columns)
+
+    st.dataframe(one_df)
+
+    # predict
+    pred_value = np.expm1(pipeline.predict(one_df))[0]
+
+    # display
+    st.success(f"The Price Of the independent_house/villa is {pred_value:.2f} Cr")
+
